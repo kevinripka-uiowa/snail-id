@@ -1,0 +1,131 @@
+LatinName,CommonName,Family,Shape,HeightLow,HeightHigh,WidthLow,WidthHigh,WhorlsLow,WhorlsHigh,WhorlIncrease,Perforate,Umbilicate,Rimate,Imperforate,LipReflected,teeth,Flattened,Shouldered,ModShouldered,Rounded,Ovate,Slit,Lunate,Truncated,Sutures,Transverse,Spiral,Lirate,Ribs,Papillae,Puncta,Hairs,Blotches,Bands,Operculum,Eyes,Pedal,Flavor,SnailID,Notes,Pilsbry,Discoverer,HasImages
+Helicina clappi,,Helicinidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hendersonia occulta,Cherrystone Drop,Helicinidae,Helicoid,4.1,6,6,8,4.5,5,Slowly,n,n,n,y,y,n,n,y,y,n,n,n,y,n,,n,y,n,n,n,n,n,n,n,y,s,n,Sn,1,An operculate snail with sessile eyes.,,Say\123 1831,n
+Lucidella tantilla,,Helicinidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Oligyra orbiculata,,Helicinidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pomatiopsis cincinnatiensis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,freshwater snail,,,
+Pomatiopsis lapidaria,Slender Walker,Pomatiopsidae,Conical,,,,,,,,,,,,,,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,,Sn,2,,,Say\123 1817,n
+Carychium clappi,Appalacian Thorn,Carychiidae,Pupa,1.9,2.1,,,4.5,4.5,,n,n,y,n,y,y,y,n,n,n,y,n,n,n,,y,n,n,n,n,n,n,n,n,n,s,n,Sn,3,,,Hubricht\123 1959,n
+Carychium exiguum,Obese Thorn,Carychiidae,Pupa,1.8,2,0.7,0.8,4.5,4.5,,n,n,y,n,y,y,n,n,n,y,y,n,n,n,,y,n,n,n,n,n,n,n,n,y,s,n,Sn,3.1,,,Say\123 1822,n
+Carychium exile,Ice Thorn,Carychiidae,Pupa,1.7,1.75,0.6,0.6,5,5.5,Regular,n,n,y,n,y,y,n,n,n,y,y,n,n,n,,y,n,n,n,n,n,n,n,n,n,s,n,Sn,4,,,I. Lea\123 1842,n
+Carychium nannodes,File Thorn,Carychiidae,Pupa,1.3,1.5,0.4,0.5,4.5,5,Regular,n,n,y,n,y,y,n,n,y,n,y,n,n,n,Deep,n,n,n,n,n,n,n,n,n,n,s,n,Sn,6,,,G.H. Clapp\123 1905,n
+Cochlicopa lubrica,Glossy Pillar,Cionellidae,Fusiform,5,7.5,2.4,2.9,5.5,6,,n,n,n,y,n,n,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,7,Glossy.,,Müller\123 1774,y
+Cochlicopa lubricella,Thin Pillar,Cionellidae,Fusiform,,,,,,,,,,,,,,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,,Sn,8,,,Porro\123 1838,n
+Cochlicopa morseana,Appalacian Pillar,Cionellidae,Fusiform,7,8,,,,,,,,,,,,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,,Sn,9,Glossy.,,Doherty\123 1878,n
+Cochlicopa nitens,Robust Pillar,Cionellidae,Fusiform,,,,,,,,,,,,,,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,,Sn,10,,,Gallenstein\123 1848,n
+Planogyra asteriscus,,Valloniidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vallonia costata,Ribbed Vallonia,Valloniidae,Depressed Heliciform,2.5,3,1,1.2,3.5,3.5,Rapid,n,y,n,n,y,n,,,,,n,n,,n,,n,y,n,y,n,n,n,n,n,n,i,n,Sn,11,,,Müller\123 1774,n
+Vallonia excentrica,Iriquois Vallonia,Valloniidae,Depressed Heliciform,1.8,2.3,,,3,3.5,Rapid,n,y,n,n,y,n,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,12,,,Sterki\123 1893,n
+Vallonia gracilicosta,,Valloniidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vallonia parvula,,Valloniidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vallonia perspectiva,,Valloniidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vallonia pulchella,Lovely Vallonia,Valloniidae,Depressed Heliciform,1,1.5,2,2.5,3,3.5,Rapid,n,y,n,n,y,n,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,13,,,Müller\123 1774,n
+Zoogenetes harpa,,Valloniidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Columella columella,,Pupillidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Columella edentula,,Pupillidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gastrocopta abbreviata,,Pupillidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gastrocopta armifera,Armed Snaggletooth,Pupillidae,Pupa,3,4.8,,,6.5,7.5,,y,n,y,n,y,y,n,n,n,y,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,15,,,Say\123 1821,n
+Gastrocopta contracta,Bottleneck Snaggletooth,Pupillidae,Pupa,2.2,2.5,1.2,1.4,5.5,5.5,,n,n,y,n,y,y,n,n,n,y,y,n,n,n,,y,n,n,n,n,n,n,n,n,n,i,n,Sn,16,Ovate-conic. Aperture almost closed by teeth.,,Say\123 1822,n
+Gastrocopta corticaria,Bark Snaggletooth,Pupillidae,Pupa,2.5,2.5,1,1,5.5,5.5,,n,n,y,n,y,y,,,,,y,n,n,n,,y,n,n,n,n,n,n,n,n,n,i,n,Sn,17,Transverse Striae weak. Only 2 teeth.,,Say\123 1816,n
+Gastrocopta pentodon,Comb Snaggletooth,Pupillidae,Pupa,1.5,1.8,0.8,1.1,5,5,,,,,,,,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,18,Typically 5 teeth.,,Say\123 1822,n
+Gastrocopta tappaniana,White Snaggletooth,Pupillidae,Pupa,1.7,2,1.1,1.2,5,5.5,,,,,,y,y,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,19,Eight teeth,Vol. II Part 2 p.889,C.B. Adams\123 1842,n
+Pupoides albilabris,White-lipped Dagger,Pupillidae,Pupa,4.2,5,2,2.2,6,6.5,,y,n,y,n,y,y,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,14,,,C.B. Adams\123 1841,n
+Vertigo bollesiana,Delicate Vertigo,Pupillidae,Pupa,1.5,1.5,,,4,5,,y,n,n,n,n,y,n,n,n,y,y,n,n,n,Well Defined,n,n,n,n,n,n,n,n,n,n,i,n,Sn,20,Cylindrical ovate. Weak striae. Five teeth.,Vol. II Part 2 p.981,E.S. Morse\123 1865,n
+Vertigo gouldi,Variable Vertigo,Pupillidae,Pupa,1.5,2.1,,,4.5,5,,,,,,,y,n,n,n,y,y,n,n,n,,y,n,n,n,n,n,n,n,n,n,i,n,Sn,21,Usually 5\123 sometimes 4\123 teeth.,Vol. II Part 2 p. 971,A. Binney\123 1843,n
+Vertigo milium,Blade Vertigo,Pupillidae,Pupa,1.3,1.75,0.8,1,4.5,5,,,,,,y,y,n,n,n,y,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,22,Six teeth.,Vol. II Part 2 p.944,Gould\123 1840,n
+Vertigo ovata,Ovate Vertigo,Pupillidae,Pupa,2.2,2.3,1.4,1.5,5,5,Rapid,,,,,y,y,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,23,,Vol. II Part 2 p.952,Say\123 1822,n
+Vertigo pygmaea,Crested Vertigo,Pupillidae,Pupa,1.8,2,,,4.5,5,,,,,,y,y,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,24,Weak striation.,Vol. II Part 2 p.961,Drapernaud\123 1801,n
+Vertigo tridentata,Honey Vertigo,Pupillidae,Pupa,1.8,2.2,1,1.1,4.5,4.5,,,,,,y,y,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,25,Shell is honey yellow. Mostly with 3 teeth.,Vol. II Part 2 p.964,Wolf\123 1870,n
+Vertigo ventricosa,Five-tooth Vertigo,Pupillidae,Pupa,1.7,2,1,1.2,4,4.5,,n,y,n,n,y,y,n,n,n,y,y,n,n,n,Deep,n,n,n,n,y,y,n,n,n,n,i,n,Sn,26,Granules or puncta only seen under high magnification. Five teeth.,Vol. II Part 2 p.957,Morse\123 1865,n
+Columella simplex,High Spire Column,Truncatellinidae,Pupa,1.8,2.1,,,5.5,5.5,,y,n,n,n,n,n,n,n,n,y,y,n,n,n,,y,n,n,n,n,n,n,n,n,n,i,n,Sn,27,Transverse striae under magnification.,,Gould\123 1840,n
+Strobilops aeneus,Bronze Pinecone,Strobilopsidae,Beehive,1.5,2,2.4,2.8,5.5,5.5,,n,y,n,n,y,y,n,y,y,n,,,,n,,n,n,n,y,n,n,n,n,n,n,i,n,Sn,28,Narrowly umbilicate (diameter is 6 1/2x umbilicus).,Vol. II Part 2 p.862,Pilsbry\123 1926,n
+Strobilops affinis,Eightfold Pinecone,Strobilopsidae,Beehive,2.5,2.6,2.75,2.8,6,6,Slowly,n,y,n,n,y,y,n,y,y,n,n,n,y,n,,n,n,n,y,n,n,n,n,n,n,i,n,Sn,29,,Vol. II Part 2 p.860,Pilsbry\123 1893,n
+Strobilops labyrinthicus,Maze Pinecone,Strobilopsidae,Beehive,1.7,1.8,2.3,2.5,5.5,5.5,,n,y,n,n,y,y,n,n,y,n,n,n,y,n,,n,n,n,y,n,n,n,n,n,n,i,n,Sn,30,Narrowly umbilicate (contained 9 to 11 times in diameter).,Vol. II Part 2 p.854,Say\123 1817,n
+Strobilops texasiana,Southern Pinecone,Strobilopsidae,Beehive,2.3,2.4,1.9,2,5.5,5.5,,n,y,n,n,y,y,n,n,y,y,n,n,y,n,,n,n,n,y,n,n,n,n,n,n,i,n,Sn,31,,Vol. II Part 2 p.856,Pilbry & Ferris\123 1906,n
+Catinella oklahomarum,Detritus Ambersnail,Succineidae,Succiniform,,,,,,,,,,,,,n,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,32,Catinella species have spires almost as long as aperture.,,Webb\123 1953,n
+Catinella vermeta,Suboval Ambersnail,Succineidae,Succiniform,7,11,4,6.8,2.5,3.5,,,,,,,n,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,33,Catinella species have spires almost as long as aperture.,Vol. II Part 2 p.837 as Succinea avara,Say\123 1829,n
+Novisuccinea ovalis,Oval Ambersnail,Succineidae,Succiniform,6,26,,,2.5,2.5,,,,,,n,n,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,34,Spire is smaller than aperture. Genital aperture noticably swollen.,Vol. II Part 2 p.801 as Succinea ovalis,Say\123 1817,n
+Oxyloma retusum,Blunt Ambersnail,Succineidae,Succiniform,7.5,20,,,2.5,4.5,,,,,,n,n,,,,,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,35,Oxyloma have spires smaller than aperture opening. Aperture is narrowly ovate.,Vol. II Part 2 p.785 as Oxyloma retusa,I. Lea\123 1834,n
+Oxyloma subeffusum,Chesapeake Ambersnail,Succineidae,Succiniform,,,,,,,,,,,,,n,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,36,Oxyloma have spires smaller than aperture. Aperture is narrow.,Vol. II Part 2 p.790 as Oxyloma effusa subeffusa,Pilsbry\123 1948,n
+Succinea putris,European Ambersnail,Succineidae,Succiniform,15,22,7,12,,,,,,,,,n,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,37,,,Linnaeus\123 1758,n
+Anguispira alternata,Flamed Tigersnail,Discidae,Depressed Heliciform,,,15,30,4.5,6.5,,n,y,n,n,n,n,n,y,y,y,n,n,y,n,,n,n,n,y,n,n,n,y,n,n,i,y,Sn,38,Globose to moderately depressed.,Vol. II Part 2 p.568,Say\123 1816,n
+Anguispira fergusoni,Coastal Plain Tigersnail,Discidae,Depressed Heliciform,,,15,17.5,,,,n,y,n,n,n,n,n,y,y,y,n,n,y,n,,n,n,n,y,n,n,n,y,n,n,i,y,Sn,39,Differentiated from A. alterna by orange mucus color.,Vol. II Part 2 p. 575 as Anguispira alternata fergusoni,Bland\123 1861,n
+Anguispira kochi,Banded Tigersnail,Discidae,Depressed Heliciform,14,21,17,31,6,6,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,y,n,i,y,Sn,40,,Vol. II Part 2 p.591,Pfeiffer\123 1821,n
+Discus catskillensis,Angular Disc,Discidae,Depressed Heliciform,,,5,5,4,4,,n,y,n,n,n,n,n,y,y,n,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,41,,Vol. II Part 2 p. 605 as Discus cronkheiti catskillensis,Pilsbry\123 1896,y
+Discus patulus,Domed Disc,Discidae,Depressed Heliciform,3,4,7,9,5,5.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,y,n,n,n,n,n,n,i,y,Sn,42,Widest umbilicus of any Discus (except bryanti).,Vol. II Part 2 p.608,Deshayes\123 1831,n
+Discus rotundatus,Rotund Disc,Discidae,Depressed Heliciform,,,5.5,7,5.5,6,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,y,n,n,n,y,n,n,i,y,Sn,43,Very flattened.,Vol. II Part 2 p.616,Müller\123 1774,n
+Discus whitneyi,Forest Disc,Discidae,Depressed Heliciform,,,5,7,3.5,4.5,,n,y,n,n,n,n,n,y,y,y,n,n,y,n,,n,n,n,y,n,n,n,n,n,n,i,y,Sn,44,,Vol. II Part 2 p.600 as Discus cronkheiti,Newcomb\123 1864,n
+Helicodiscus parallelus,Compound Coil,Helicodiscidae,Discoidal,1,1.3,3.2,3.5,4,4.5,,n,y,n,n,n,y,n,n,n,y,n,n,y,n,,n,y,n,n,n,n,n,n,n,n,i,y,Sn,45,Spiral striae missing or weak from first 1.5 whorls.,Vol. II Part 2 p.625,Say\123 1817,n
+Helicodiscus shimeki,Temperate Coil,Helicodiscidae,Discoidal,,,,,,,,,,,,,,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,46,,Vol. II Part 2 p.617 as Discus shimeki,Hubricht\123 1962,n
+Lucilla singleyana,Smooth Coil,Helicodiscidae,Depressed Heliciform,,,1.2,3,3.5,4,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,deep,n,y,n,n,n,n,n,n,n,n,i,y,Sn,48,Spirals only evident under high magnification,,Pilsbry\123 1889,n
+Punctum minutissimum,Small Spot,Punctidae,Depressed Heliciform,0.65,1,1.1,1.5,3.5,4.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,y,n,y,n,n,n,n,n,n,i,y,Sn,49,First 1 1/2 whorls are smooth\123 then has closely spaced ribs and spiral striae,,I. Lea\123 1841,n
+Punctum vitreum,Glass Spot,Punctidae,Depressed Heliciform,0.75,0.95,1.2,1.4,4,4.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,y,n,y,n,n,n,n,n,n,i,y,Sn,50,First whorl irregularly wrinkled. Last 3/4 embryonic whorl spiral striae become more distinct.,,,n
+Cecilioides acicula,Blind Awlsnail,Ferussaciidae,Fusiform,,,,,,,,,,,,,,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,,Sn,64,,,,n
+Haplotrema concavum,Gray-foot Lancetooth,Haplotrematidae,Depressed Heliciform,5.3,9.6,11,22,4,5.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,y,n,n,n,n,n,n,n,n,n,i,n,Sn,65,Irregularly striate. Sometimes has fine spiral lines. Glossy.,,Say\123 1821,n
+Euconulus dentatus,Toothed Hive,Helicarionidae,Beehive,2.3,2.45,2.4,2.5,6.5,6.5,,y,n,n,n,n,n,n,n,n,y,n,n,y,n,,n,y,n,n,n,n,n,n,n,n,i,y,Sn,66,Teeth can be seen through botom of shell. But none in aperture.,,Sterki\123 1893,n
+Euconulus fulvus,Brown Hive,Helicarionidae,Beehive,2,2.5,2.8,3.5,5.5,6,,y,n,n,n,n,n,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,y,Sn,67,Sometimes shell has no visible shell navel (umbilicus) and the apertural whorl shows a slight blunt keel.,,Müller\123 1774,n
+Euconulus polygyratus,Fat Hive,Helicarionidae,Beehive,2.3,2.8,2.6,3.8,6,7.5,,n,n,n,y,n,n,n,n,y,y,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,68,,,Pilsbry\123 1899,n
+Guppya sterkii,Sterki\'s Granule,Helicarionidae,Depressed Heliciform,0.6,0.8,1.2,1.3,3.5,4,,n,n,n,y,n,n,n,n,n,y,n,n,n,n,,n,y,n,n,n,n,n,n,n,n,i,y,Sn,69,Spiral striae start at apex. Weak growth wrinkles.,,Dall\123 1888,n
+Gastrodonta interna,Brown Bellytooth,Gastrodontidae,Heliciform,,,6.5,7.5,8,9,,y,n,n,n,n,s,n,n,n,y,n,n,y,n,,n,n,n,y,n,n,n,n,n,n,i,y,Sn,70,Ribs are on upper half of whorls.,,Say\123 1822,n
+Striatura exigua,Ribbed Striate,Gastrodontidae,Depressed Heliciform,1.2,1.3,2.2,2.4,3.5,3.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,y,n,y,n,n,n,n,n,n,i,y,Sn,71,Ribs start after first 1.5 whorls. Umbilicus 1/3 width of body.,,Stimpson\123 1850,n
+Striatura ferrea,Black Striate,Gastrodontidae,Depressed Heliciform,,,2.5,3.4,3.5,4,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,y,Sn,72,,,Morse\123 1864,n
+Striatura meridionalis,Median Striate,Gastrodontidae,Depressed Heliciform,,,1.7,1.8,3,3.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,y,Sn,73,,,Pilsbry & Ferris\123 1902,n
+Striatura milium,Fine-ribbed Striate,Gastrodontidae,Depressed Heliciform,0.8,0.8,1.5,1.5,3,3.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,y,n,y,n,n,n,n,n,n,i,y,Sn,74,,,Morse\123 1859,n
+Ventridens demissus,Perforate Dome,Gastrodontidae,Heliciform,5,7,7.5,10,6,7,,y,n,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,75,very young shells may have basal lamina,,Binney\123 1843,n
+Ventridens gularis,Throaty Dome,Gastrodontidae,Heliciform,5,6.5,7.5,8,6.5,8,,y,n,y,n,n,y,n,n,n,y,n,n,y,n,,y,n,n,n,n,n,n,n,n,n,i,y,Sn,76,,,Say\123 1822,n
+Ventridens intertextus,Pyramid Dome,Gastrodontidae,Heliciform,10,13.5,13.4,18.5,6,7,,y,n,y,n,n,n,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,y,n,i,y,Sn,77,,,Binney\123 1841,n
+Ventridens ligera,Globose Dome,Gastrodontidae,Heliciform,8,12.7,11,15.6,6,7,,y,n,n,n,n,n,n,n,n,y,n,n,y,n,,n,y,n,n,n,n,n,n,n,n,i,y,Sn,78,,,Say\123 1821,n
+Ventridens suppressus,Flat Dome,Gastrodontidae,Heliciform,3.5,4.1,5.75,7,5.5,6,,y,n,n,n,n,y,n,n,n,y,n,n,y,n,,y,n,n,n,n,n,n,n,n,n,i,y,Sn,79,Umbilicus contained 8 times in diameter.,,Say\123 1829,n
+Ventridens virginicus,Split-tooth Dome,Gastrodontidae,Heliciform,3.4,3.8,5.7,6,6,6.5,,y,n,n,n,n,y,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,80,,,Vanatta\123 1936,n
+Zonitoides arboreus,Quick Gloss,Gastrodontidae,Depressed Heliciform,2.5,3,5,6,4.5,5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,y,n,n,n,n,n,n,n,n,i,y,Sn,81,Spiral striae is extremely faint.,,Say\123 1816,n
+Zonitoides nitidus,Black Gloss,Gastrodontidae,Depressed Heliciform,3.6,4,6,7,4.5,5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,82,Animal is black.,,Müller\123 1774,n
+Glyphyalinia indentata,Carved Glyph,Zonitidae,Depressed Heliciform,,,4.7,5.7,4,4.5,,y,n,y,n,n,n,n,n,n,y,n,n,,n,,y,y,n,n,n,n,n,n,n,n,i,y,Sn,83,Indented transverse striae-- usually about 28. Umbilicus contained 25 to 30 times in diameter. Spiral striae fine.,,Say\123 1823,n
+Glyphyalinia rhoadsi,Sculpted Glyph,Zonitidae,Depressed Heliciform,2.3,2.5,4.5,4.7,4,4,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,y,n,n,n,n,n,n,n,n,n,i,y,Sn,84,Transver striae are indented-- 38 to 45. Can see penultimate whorl in umbilicus. Umbilicus 7 times in diameter.,,Pilsbry\123 1899,n
+Glyphyalinia wheatleyi,Bright Glyph,Zonitidae,Depressed Heliciform,1.9,2.2,3.5,5,5,5.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,y,Sn,85,Transverse striae indented. Spiral striae faint.,,Bland\123 1883,n
+Mesomphix cupreus,Copper Button,Zonitidae,Depressed Heliciform,12.4,16,22,28.4,4.5,5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,86,Smooth surface. Coppery tint.,,Rafinesque\123 1831,n
+Mesomphix inornatus,Plain Button,Zonitidae,Depressed Heliciform,8,11,16.5,21,4.5,5,,y,n,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,n,y,n,n,n,n,n,i,y,Sn,87,Papillae are closely arranged almost in a spiral striae.,,Say\123 1821,n
+Mesomphix perlaevis,Smooth Button,Zonitidae,Depressed Heliciform,9.7,12.2,17.6,20.7,4.5,5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,y,n,n,n,n,n,n,n,n,n,i,y,Sn,88,coarser microsculpture with grooved ridges,,Pilsbry\123 1900,n
+Nesovitrea binneyana,Blue Glass,Zonitidae,Depressed Heliciform,,,3.7,4.25,3.5,3.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,89,Separated from N. electrina by being smaller\123 its shell is white with greenish tint. Animal dark blue.,,Morse\123 1864,n
+Nesovitrea electrina,Amber Glass,Zonitidae,Depressed Heliciform,2.5,2.8,4.6,5.2,4,4.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,y,Sn,90,Shell transparent with a faint yellow or green tint. Very dark animal.,,Gould\123 1841,n
+Oxychilus alliarius,Garlic Glass,Zonitidae,Depressed Heliciform,,,5,6,4,4.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,91,Growth wrinkles most pronounced at sutures. Gives off a scent of garlic when handled.,,Miller\123 1822,n
+Oxychilus cellarius,Cellar Glass,Zonitidae,Depressed Heliciform,4.2,4.2,9,9,5,5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,y,n,n,n,n,n,n,n,n,i,y,Sn,92,Umbilicus 6 times in diameter. Shell clear corneous with a faint amber or yellowish above\123 and whitish around umbilicus. Animal light gray\123 darker above\123 pale sole\123 and brown spots at mantle.,,Müller\123 1774,n
+Oxychilus drapernaudi,Dark-bodied Glass,Zonitidae,Depressed Heliciform,6.5,8,14.5,16.5,5,5.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,93,Umbilicus contained 6 times in diameter.,,Beck\123 1837,n
+Paravitrea multidentata,Dentate Supercoil,Zonitidae,Depressed Heliciform,1,1.4,2.5,3,6,6,,y,n,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,94,Two to four rows of 4-5 teeth seen in body whorl from the base of shell.,,Binney\123 1841,n
+Hawaiia alachuana,Southeast Gem,Vitrinidae,Depressed Heliciform,,,2.1,2.1,4.5,4.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,95,More openly umbilicat than H. miniscula and has a half whorl more. Umbilicus containte 2.5 times in diameter.,,Dall\123 1885,n
+Hawaiia minuscula,Minute Gem,Vitrinidae,Depressed Heliciform,1.2,1.2,1.6,1.8,3.5,4.5,,n,y,n,n,n,n,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,y,Sn,96,Umbilicus about 3 times in diameter. Embryonic whorl smooth\123 then unevenly striate above\123 smooth below. Transverse striae are under magnification\123 and spiral striae are faint.,,Binney\123 1840,n
+Vitrina angelicae,Eastern Glass-Snail,Vitrinidae,Heliciform,4.5,4.5,6,6,4,4,,n,n,n,y,n,n,n,n,n,y,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,i,y,Sn,97,Shell barely covers animal.,,Beck\123 1837,n
+Allogona profunda,Broad-banded Forest Snail,Polygyridae,Heliciform,14.8,17.1,25.5,32.7,5,5.5,,n,y,n,n,y,y,n,n,n,y,n,n,y,n,,y,y,n,n,y,n,n,n,s,n,i,n,Sn,104,Last whorl has thread-like striae\123 and close impressed spiral lines often punctate in places. Short callus or low tooth in basal margin.,,Say\123 1821,n
+Appalachina sayana,Spike-lip Crater,Polygyridae,Depressed Heliciform,12.4,16,19.4,27,4.5,6,,n,y,n,n,y,y,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,n,Sn,105,Embryonic 1.5 whorls smooth\123 then finely striate with microscopic spiral lines. Umbilcus 7 times in diameter. Tooth on basocolumellar margin and another on parietal wall.,,Pilsbry\123 1906,n
+Euchemotrema fraternum,Upland Pillsnail,Polygyridae,Depressed Heliciform,5.2,7,7.8,11.4,5,6,,n,n,y,y,y,y,n,y,y,n,n,y,n,n,,n,n,n,n,y,n,y,n,n,n,i,n,Sn,106,Parietal tooth turned to thickened basal lp.,,Say\123 1824,n
+Euchemotrema leai,Lowland Pillsnail,Polygyridae,Depressed Heliciform,3.9,5.7,6.7,9.4,5.5,6.5,,y,n,y,n,y,y,n,y,y,n,n,y,n,n,,n,n,n,n,n,n,y,n,n,n,i,n,Sn,107,The entire profile of this may be wrong. Need more research.,,Binney\123 1841,n
+Inflectarius inflecta,Shagreen,Polygyridae,Heliciform,5,8.1,8.3,13.8,4.5,5.5,,n,n,y,y,y,y,n,n,n,y,n,n,y,n,,y,y,n,n,y,n,y,n,n,n,i,n,Sn,108,Aperture lip is three-lobed. Parietal tooth is long and somewhat curved.,,Say\123 1821,n
+Mesodon clausus,Yellow Globelet,Polygyridae,Heliciform,10,13,13.6,18,5,5.5,,n,n,y,n,y,n,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,n,Sn,109,Umblicus is always only partially covered.,,Say\123 1821,n
+Mesodon elevatus,Proud Globe,Polygyridae,Heliciform,14.5,20.2,19.3,26.3,6,7,,n,n,n,y,y,y,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,n,Sn,110,Embryonic whorl has smooth tip\123 then finely striate.,,Say\123 1821,n
+Mesodon mitchellianus,Sealed Globelet,Polygyridae,Heliciform,11.7,13,15.3,17.2,5,5.5,,n,n,n,y,y,n,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,n,Sn,111,Similar to Mesodon elevatus but umbilicus is always closed while M. elevatus is always at least partially open.,,Lea\123 1839,n
+Mesodon thyroidus,White-lip Globe,Polygyridae,Heliciform,11.1,18.3,15,31,5,5.5,,n,n,y,n,y,s,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,n,Sn,112,Usually has parietal tooth\123 but may be absent.,,Say\123 1861,n
+Mesodon zaletus,Toothed Globe,Polygyridae,Heliciform,16.9,24.5,19,31,5.5,6,,n,n,n,y,y,s,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,n,Sn,113,Parietal tooth usually present\123 but may be absent.,,Binney\123 1837,n
+Neohelix albolabris,Whitelip,Polygyridae,Heliciform,12,18.7,21,31,5.5,6,,n,n,n,y,y,s,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,n,Sn,114,Usually no parietal tooth\123 but can be present. Embryonic shell with a band of fine striae radiating below the suture\123 elsewhere smooth. Later whorls with sculpture of fine oblique striae and minute \123 crowded\123 spiral lines.,,Say\123 1816,n
+Neohelix dentifera,Big-tooth Whitelip,Polygyridae,Depressed Heliciform,11.4,16.5,19.9,28.4,5,5.5,,n,n,n,y,y,y,n,n,n,y,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,n,Sn,115,Parietal tooth always present. Embryonic 1.3 whorls have radial striae below suture\123 short at first\123 but later extending half across the whorl.,,Binney\123 1837,n
+Patera laevior,Smooth Bladetooth,Polygyridae,Depressed Heliciform,7,9,15.5,19.5,4.5,5,,n,n,n,y,y,y,n,y,y,n,n,n,y,n,,y,n,n,n,y,n,n,n,n,n,i,n,Sn,116,Papillae are microscopic and form spiral lines towards the end of upper surface of the last whorl.,,Pilsbry\123 1940,n
+Patera pennsylvanica,Proud Globelet,Polygyridae,Heliciform,10.2,15,15.2,20,5.5,6,,n,n,n,y,y,n,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,n,n,i,n,Sn,117,First half whorl smooth\123 next half whorl closely striate below suture.,,Green\123 1827,n
+Stenotrema barbatum,Bristled Slitmouth,Polygyridae,Depressed Heliciform,5.5,7,7.5,11,5,5.5,,n,n,n,y,y,y,n,n,n,y,n,y,n,n,,n,n,n,n,n,n,y,n,n,n,i,n,Sn,118,Stiff hairs about 0.5mm in length\123 widely spaced\123 cross the lines of growth at nearly a right angle. Width of the mouth is 1mm-- double S. stenotrema.,,Clapp\123 1904,n
+Stenotrema edvardsi,Ridge-and-valley Slitmouth,Polygyridae,Depressed Heliciform,4.8,5.4,7,8,5,5.5,,n,n,n,y,y,y,n,y,y,n,n,n,y,n,,n,n,n,n,y,n,y,n,n,n,i,n,Sn,119,Periphery sharply angular. Embryonic whorl minutely granulose.,,Bland\123 1856,n
+Stenotrema hirsutum,Hairy Slitmouth,Polygyridae,Depressed Heliciform,4.3,5.7,6.2,9.6,5,5.5,,n,n,n,y,y,y,n,n,n,y,n,y,n,n,,n,n,n,n,y,n,y,n,n,n,i,n,Sn,120,,,Say\123 1817,y
+Stenotrema leai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stenotrema simile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Triodopsis fallax,Mimic Three-tooth,Polygyridae,Depressed Heliciform,7.5,8.2,11.8,12.4,5.5,5.5,,n,y,n,n,y,y,n,n,n,y,n,n,y,n,,y,n,n,n,y,n,n,n,n,n,i,n,Sn,121,Umbilicus contained about 9 times in diameter. First whorl smooth with a band of short radial striae below suture. Minute papillae around umbilicus. Parietal tooth is long and very curved.,,Say\123 1825,n
+Triodopsis fosteri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Triodopsis fraudulenta,Baffled Three-tooth,Polygyridae,Depressed Heliciform,7.7,9,14.7,16.7,5.5,6,,n,y,y,n,y,y,n,n,n,y,n,n,y,n,,y,y,n,n,y,n,n,n,n,n,i,n,Sn,122,Last whorl has traces of spiral lines below suture. Dense minute papillae at umbilicus below suture. Aperture nearly closed by teeth.,,Pilsbry\123 1894,n
+Triodopsis juxtidens,Atlantic Three-tooth,Polygyridae,Depressed Heliciform,6.6,10.2,11.9,19.1,5,5.5,,n,y,n,n,y,y,n,n,n,y,n,n,y,n,,y,n,n,n,y,n,n,n,n,n,i,n,Sn,123,Peripheral end of parietal tooth slants towards or above the upper lip-tooth. Upper lip-tooth is situated lower than T. tridentata making the distance between teeth shorter than distance of either tooth to end of lip. Papillae around umbilicus.,,Pilsbyr\123 1894,n
+Triodopsis major,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Triodopsis picea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Triodopsis platysayoides,Flat-spired Three-tooth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Threatened. Only know to the Cheat River Gorge in West Virginia but could theoretically occur in the bordering southwestern counties of PA. Be on the lookout!,,,
+Triodopsis tridentata,Northern Three-tooth,Polygyridae,Depressed Heliciform,6.4,7.7,12.3,14.5,5,5.5,,n,y,n,n,y,y,n,n,n,y,n,n,y,n,,y,n,n,n,y,n,n,n,n,n,i,n,Sn,125,Parietal tooth points below upper lip-tooth. Papillae around umbilicus\123 sometimes above whorl. Umbilicus contained 7 times in diameter.,,Say\123 1816,n
+Triodopsis vulgata,Dished Three-tooth,Polygyridae,Depressed Heliciform,7.3,10.4,13.5,19.5,6,6.5,,n,y,n,n,y,y,n,n,n,y,n,n,y,n,,y,n,n,n,n,n,n,n,n,n,i,n,Sn,126,Parietal tooth points above upper lip-tooth.,,Pilsbry\123 1940,n
+Webbhelix multilineata,Striped Whitelip,Polygyridae,Heliciform,14,18.5,21,30,5.5,6,,n,n,n,y,y,s,n,n,n,y,n,n,y,n,,y,y,n,n,n,n,n,n,y,n,i,n,Sn,127,Usually without parietal tooth. Sometimes without color bands. Rather glossy. First 1.5 whorls smooth\123 then fine oblique striae with weakly spiral engraved lines in their intervals.,,Say\123 1821,n
+Xolotrema denotatum,Velvet Wedge,Polygyridae,Heliciform,10,13.7,18.3,25.6,5,5.5,,n,n,y,y,y,y,n,y,y,n,n,n,y,n,,y,n,n,n,y,n,y,n,n,n,i,n,Sn,128,Parietal tooth extends to umbilical callous.,,Férussac\123 1821,n
+Zachrysia provisoria,Garden Zachrysia,Camaenidae,Heliciform,,,25,30,4,5,,n,n,n,y,n,n,n,n,n,y,n,n,,n,,n,n,n,y,n,n,n,n,n,n,i,n,Sn,129,,,Pfeiffer\123 1858,n
+Trochulus striolatus,Strawberry Snail,Hygromiidae,Heliciform,,,,,,,,,,,,,,,,,,n,n,,n,,n,n,n,n,n,n,n,n,n,n,i,,Sn,130,,,Pfeiffer\123 1828,n
+Cepaea nemoralis,Grove Snail or Brown-lipped Snail,Helicidae,Heliciform,,,20,25,5,5,,n,n,n,y,y,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,y,n,i,n,Sn,131,,,,n
+Helix aspersa,Brown Garden Snail,Helicidae,Heliciform,,,28,32,4,5,,n,n,n,y,y,n,n,n,n,y,n,n,y,n,,n,n,n,n,n,n,n,n,y,n,i,n,Sn,132,,,Müller\123 1774,n
+Otala lactea,Milk Snail or Spanish Snail,Helicidae,Heliciform,,,,,,,,,,,,,,,,,,n,n,,n,,n,n,n,n,n,n,n,n,y,n,i,,Sn,133,,,,n
