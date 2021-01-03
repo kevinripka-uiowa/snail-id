@@ -1,4 +1,4 @@
-export default  {
+module.exports = {
   carychiidae: {
     t1: {
       c1: {
@@ -13,7 +13,7 @@ export default  {
       }
     },
     t2: {
-      prev: 't2',
+      prev: 't1',
       c1: {
         n: '2a',
         l: 'Whorls rapidly tapering to apex',
@@ -315,8 +315,21 @@ export default  {
       },
       c2:  {
         n: '21b',
+        l: 'Shell smaller, 1.3mm or less in diameter',
+        next: 't22'
+      }
+    },
+    t22: {
+      prev: 't21',
+      c1:  {
+        n: '22a',
         l: 'Shell somewhat depressed; last whorl deflected',
         s: 'Punctum minutissimum'
+      },
+      c2: {
+        n: '22b',
+        l: 'Shell more depressed; last whorl not deflected',
+        s: 'Punctum Blandianum'
       }
     }
 
@@ -955,7 +968,7 @@ export default  {
         n: '40b',
         l: 'Shell 3mm or less in diameter',
         s: 'Glyphyalinia cumberlandiana',
-        o: 'Retinella cumberlandia'
+        o: 'Retinella cumberlandiana'
       }
     },
     t41: {
@@ -1567,7 +1580,7 @@ export default  {
       c2:  {
         n: '85b',
         l: 'Shell periphery sharply carinate',
-        s: 'Ventridens intertextus'
+        s: 'Ventridens intertextus eutropis'
       }
     },
     t86: {
@@ -1926,7 +1939,7 @@ export default  {
       }
     },
     t2: {
-      prev: 't2',
+      prev: 't1',
       c1: {
         n: '2a',
         l: 'Angulo-parietal lamella a simple peg-like tooth (Figs. 2D-F, 2N)',
@@ -3407,7 +3420,7 @@ export default  {
       { n: '53b',
         l:
          ' Palatal tooth situated in the upper part of the outer lip; shell usually more than 17 mm. in diameter ',
-        next: 't54' },
+        next: 't57' },
      prev: 't52' },
   t54:
    { c1:
@@ -3445,7 +3458,9 @@ export default  {
         l: ' Shell sculptured with short stiff hairs ',
         s: 'Xolotrema denotatum',
         o: 'Triodopsis denotata' },
-     c2: { n: '57b', l: ' Shell without hairs. ', next: 't58' } },
+     c2: { n: '57b', l: ' Shell without hairs. ', next: 't58' },
+   prev: 't53' },
+
   t58:
    { c1:
       { n: '58a',
@@ -4059,7 +4074,7 @@ export default  {
          ' Shell more than 10 mm. in diameter: body whorl with a furrow just preceeding the apertural lip. ',
         s: 'Praticolella bakeri' },
      prev: 't115' } }, // polygyridae
-strobolopsidae :{ t1:
+strobilopsidae :{ t1:
    { c1:
       { n: '1a',
         l:
@@ -4080,7 +4095,8 @@ strobolopsidae :{ t1:
       { n: '2b',
         l:
          ' Spire less elevated, its sides only slightly convex; periphery of body whorl angular. ',
-        s: 'Strobilops aenea' },
+         s: 'Strobilops aeneus',
+        o: 'Strobilops aenea' },
      prev: 't1' },
   t3:
    { c1:
@@ -4098,10 +4114,12 @@ strobolopsidae :{ t1:
    { c1:
       { n: '4a',
         l: ' Ribs well developed on base of shell. ',
-        s: 'Strobilops texasiana' },
+        s: 'Strobilops texasianus,',
+        o: 'Strobilops texasiana' },
      c2:
       { n: '4b',
         l: ' Ribs absent or only poorly developed on base of shell. ',
-        s: 'Strobilops labyrinthica' },
+        s: 'Strobilops labyrinthicus',
+        o: 'Strobilops labyrinthica' },
      prev: 't3' } } // strobolopsidae
 }

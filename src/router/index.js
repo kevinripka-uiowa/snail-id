@@ -53,12 +53,36 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/SpeciesKey.vue')
   },
   {
+    path: '/key',
+    name: 'Key',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "about" */ '../views/Key.vue')
+  },
+  {
     path: '/species-in-key',
     name: 'SpeciesInKey',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/SpeciesInKey.vue')
+  },
+  {
+    path: '/species-list',
+    name: 'SpeciesList',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "about" */ '../views/SpeciesList.vue')
+  },
+  {
+    path: '/macro',
+    name: 'Macro',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "about" */ '../views/Macro.vue')
   },
 ]
 

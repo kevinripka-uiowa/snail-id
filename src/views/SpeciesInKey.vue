@@ -1,29 +1,13 @@
 <template>
 <div class="family">
 
+  <h1>{{total_species}} Species</h1>
 
-  <template v-if="speciesSelected">
-    <a @click="speciesSelected = false">back</a>
-    <h1>{{speciesSelected.species}}</h1>
-    <ul v-for="(d,i) in speciesDesc" :key="i + 'group'">
-      <li v-for="(f,j) in d" :key="i + '-' + j">{{f.n}} {{f.l}}
-      <b v-if="f.g">{{f.g}}</b>
-      <b v-if="f.f">Family {{f.f}}</b>
-      <b v-if="f.s">Species {{f.s}}</b>
-    </li>
-    </ul>
-
-  </template>
-
-    <div v-else>
-      <div v-for="f in families" :key="f">
-          <h1>{{f}}</h1>
-          <ul>
-              <li v-for="s in species[f]" :key="s.species" @click="getSpecies(s)">{{s.species}}</li>
-          </ul>
-      </div>
-
-
+    <div v-for="f in families" :key="f">
+        <h1>{{f}} ({{species[f].length}})</h1>
+        <ul>
+            <li v-for="s in species[f]" :key="s.species"><router-link :to="{name: 'Species', params: { url:s.species.replace(/ /g,'-').toLowerCase()} }">{{s.species}}</router-link></li>
+        </ul>
     </div>
 
 </div>
@@ -44,7 +28,9 @@ export default {
     families(){
       let families = []
       for (let d in this.obj) {
+        if (d !== 'pupillidae') {
           families.push(d)
+        }    
       }
       families.sort()
       return families
@@ -83,9 +69,17 @@ export default {
             return true
           }
         })
+
       }
 
       return species
+    },
+    total_species(){
+      let count = 0;
+      for (let f in this.species) {
+        count = count + this.species[f].length
+      }
+      return count
     }
   },
   methods: {

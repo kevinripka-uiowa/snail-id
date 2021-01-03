@@ -1,5 +1,5 @@
 export default {
-  taxkey: {
+  family: {
     t1: {
       c1: {
         n: '1a',
@@ -589,8 +589,138 @@ export default {
         f_in_part: true
       }
     },
+  },
 
+    pupillidae:  {
+      t1: {
+        c1: {
+          n: '1a',
+          l: 'At least one lamella in the aperture (Figs. 1, 2, 6) ',
+          next: 't2'
+        },
+        c2:  {
+          n: '1b',
+          l: 'No apertural lamellae (Figs. 3A-C, 3E-H, 4A-E, 5F, 5K)',
+          next: 't7'
+        }
+      },
+      t2: {
+        prev: 't1',
+        c1: {
+          n: '2a',
+          l: 'Parietal lamella fused with angular forming a complex bilobed structure (Figs. 1, 2C, 2G-P)',
+          g: 'Gastrocopta'
+        },
+        c2:  {
+          n: '2b',
+          l: 'Parietal lamella a simple peg or plate (occasionally absent); angular lamellae (if present) not fused with the parietal (Figs. 2A, 2D-F, 5A-E, 5G-J, 5L-R, 6)',
+          next:'t3'
+        }
+      },
+      t3: {
+        prev: 't2',
+        c1: {
+          n: '3a',
+          l: 'Fresh shells waxy white to clear (Fig. 2A, 2D-F) ',
+          g: 'Gastrocopta'
+        },
+        c2:  {
+          n: '3b',
+          l: 'Fresh shells pale to deep reddish brown (Figs. 3D, 4F-G, 5A-E, 5G-J, 5L-R)',
+          next:'t4'
+        }
+      },
+      t4: {
+        prev: 't3',
+        c1: {
+          n: '4a',
+          l: 'Shell >3 mm tall (Fig. 3D)',
+          g: 'Pupilla'
+        },
+        c2:  {
+          n: '4b',
+          l: 'Shell <3 mm tall (Figs. 4F-G, 5, 6) ',
+          next:'t5'
+        }
+      },
+      t5: {
+        prev: 't4',
+        c1: {
+          n: '5a',
+          l: 'Entire shell surface pitted; shell almost as tall as wide; three lamellae in aperture (Fig. 4F)',
+          g: 'Bothriopupa'
+        },
+        c2:  {
+          n: '5b',
+          l: 'Shell lacking pits; shell taller than wide or if as tall as wide, then no apertural lamellae (Figs. 4G, 5A-E, 5G-J, 5L-R, 6)',
+          next:'t6'
+        }
+      },
+      t6: {
+        prev: 't5',
+        c1: {
+          n: '6a',
+          l: 'Shell apex strongly domed; body whorl 2/3 shell height (Fig. 4G)',
+          g: 'Sterkia'
+        },
+        c2:  {
+          n: '6b',
+          l: 'Shell apex tapered; body whorl ~1/2 shell height or less (Figs. 5, 6)',
+          g: 'Vertigo'
+        }
+      },
+      t7: {
+        prev: 't1',
+        c1: {
+          n: '7a',
+          l: 'Shell >3 mm tall (Figs. 3A-C, 3E-H)',
+          next: 't8'
+        },
+        c2:  {
+          n: '7b',
+          l: 'Shell <3 mm tall (Figs. 4A-E, 5F, 5K)',
+          next: 't9'
+        }
+      },
+      t8: {
+        prev: 't7',
+        c1: {
+          n: '8a',
+          l: 'Shell ovoid or conical with tapered apex (Figs. 3E-H)',
+          g: 'Pupoides'
+        },
+        c2:  {
+          n: '8b',
+          l: 'Shell cylindrical with domed apex (Figs. 3A-C)',
+          g: 'Pupilla'
+        }
+      },
+      t9: {
+        prev: 't7',
+        c1: {
+          n: '9a',
+          l: 'Adult shell height and width approximately equal; note that many immature pupillids will also key here (Figs. 4D-E)',
+          g: 'Pupisoma'
+        },
+        c2:  {
+          n: '9b',
+          l: 'Adult shell distinctly taller than wide (Figs. 4A-C, 5F, 5K)',
+          next: 't10'
+        }
+      },
+      t10: {
+        prev: 't9',
+        c1: {
+          n: '10a',
+          l: 'Shell ovoid or cylindrical; shell surface smooth (Figs. 5F, 5K)',
+          g: 'Vertigo'
+        },
+        c2:  {
+          n: '10b',
+          l: 'Shell cylindrical or slightly conical; shell surface striate (Figs. 4A-C)',
+          g: 'Columella'
+        }
+      }
+    }, //pupillidae
 
-
-  }
 }

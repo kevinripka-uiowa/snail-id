@@ -2,15 +2,18 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/family">Family Descriptions</router-link> |
-      <router-link to="/familykey">Family Key</router-link> |
-      <router-link to="/specieskey">Species Key</router-link> |
-      <router-link to="/species-in-key">Species In Key</router-link> |
+      <!-- <router-link to="/family">Family Descriptions</router-link> | -->
+      <!-- <router-link to="/familykey">Family Key</router-link> | -->
+      <router-link to="/species-list">Species List</router-link> |
+      <router-link to="/key">Key from Start</router-link> |
+      <router-link to="/specieskey">Key from Family</router-link> |
+      <router-link to="/macro">Macro Calculator</router-link> |
+      <!-- <router-link to="/species-in-key">Species In Key</router-link> | -->
       <router-link to="/datakey">Data Key</router-link>
     </div>
-    <keep-alive>
+    <!-- <keep-alive> -->
     <router-view/>
-  </keep-alive>
+  <!-- </keep-alive> -->
   </div>
 </template>
 
