@@ -9,7 +9,7 @@
       <div v-for="s in filtered_snails" :key="s.f" :ref="s.f">
         <h3 :id="s.f">{{s.f}} ({{s.s.length}})</h3>
         <ul class="list">
-          <li v-for="snail in s.s" :key="snail.species"><router-link :to="{name: 'Species', params: { url:snail.species.replace(/ /g,'-').toLowerCase()} }" target="_blank">{{snail.species}} - {{snail.common}}</router-link> <small>{{snail.author}}</small> <span v-if="snail.ia" class="iowa">Iowa</span><span v-if="snail.bordering" class="iowa bordering">Bordering States</span><span v-if="snail.native==='n'" class="non-native">non-native</span><span v-if="snail.in_key===true" class="non-native in-key">in key</span><span v-if="snail.notes" class="non-native notes">notes</span><template><span v-if="snail.status.includes('G1')" class="status g1">Critically Imperiled</span><span v-else-if="snail.status.includes('G2')" class="status g2">Imperiled</span><span v-else-if="snail.status.includes('G3')" class="status g3">Vulnerable</span></template>
+          <li v-for="snail in s.s" :key="snail.species"><router-link :to="{name: 'Species', params: { url:snail.species.replace(/ /g,'-').toLowerCase()} }" target="_blank">{{snail.species}} - {{snail.common}}</router-link> <small>{{snail.author}}</small> <span v-if="snail.ia" class="iowa">Iowa</span><span v-if="snail.bordering" class="iowa bordering">Bordering States</span><span v-if="snail.native==='n'" class="non-native">non-native</span><span v-if="snail.in_key===true" class="non-native in-key">in key</span><span v-if="snail.notes" class="non-native notes">notes</span><template><span v-if="snail.status.includes('G1')" class="status g1">Critically Imperiled</span><span v-else-if="snail.status.includes('G2')" class="status g2">Imperiled</span><span v-else-if="snail.status.includes('G3')" class="status g3">Vulnerable</span><span class="image-count">photos: {{snail.images.length}}</span></template>
           </li>
         </ul>
         <a @click="scrollTo('top')">back to top</a>
@@ -239,5 +239,13 @@ label {
   &.g3 {
     background-color: #cc0000;
   }
+}
+.image-count {
+  font-size:10px;
+  color:#fff;
+  padding:2px 4px;
+  border-radius:4px;
+  vertical-align:baseline;
+  background-color: #000;
 }
 </style>

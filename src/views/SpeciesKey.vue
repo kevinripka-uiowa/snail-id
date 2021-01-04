@@ -14,7 +14,7 @@
             </li>
         </ul>
 
-        <h1 v-if="species" @click="summarizeFamily()">{{species}}</h1>
+        <h1 v-if="species"><router-link :to="{name: 'Species', params: { url:species.replace(/ /g,'-').toLowerCase()} }" target="_blank">{{species}}</router-link></h1>
 
         <template v-if="family === 'pupillidae' || family === 'gastrocopta' || family === 'vertigo' || family === 'columella' || family === 'pupilla' || family === 'pupoides'">
 

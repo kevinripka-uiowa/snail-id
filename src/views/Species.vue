@@ -143,6 +143,7 @@ export default {
 }
 #species .flex {
   display:flex;
+  flex-wrap: nowrap;
   > div {
     margin: 0 1rem;
   }
